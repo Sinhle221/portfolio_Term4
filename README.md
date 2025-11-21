@@ -21,7 +21,7 @@ Currently pursuing a **Diploma in Information Technology** at the Cape Peninsula
 ---
 
 ## About Me(Mork Interview) – Short Video  
-*(Video embedded in original digital portfolio)*
+[*(Video embedded in original digital portfolio)*](https://github.com/Sinhle221/Mock-Interview-/blob/main/Mock%20video.mp4)
 
 ---
 
