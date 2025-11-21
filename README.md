@@ -62,7 +62,6 @@ Working at Plum Systems has helped me grow both **technically and personally**:
 - Contributed to real projects that strengthened coding efficiency and problem-solving
 - <img src="Screenshot 2025-11-21 133921.png" alt="Sinhle Mthwthwa" width="600"/>
 
-**Note:** *I do not have any restraint of trade agreement with my current or previous employers.*
 
 ---
 
