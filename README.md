@@ -64,6 +64,17 @@ Working at Plum Systems has helped me grow both **technically and personally**:
 
 
 ---
+**Business Communication**
+
+I improved my professional communication tools to present myself clearly and confidently to potential employers:
+
+-Updated my LinkedIn profile with detailed and accurate information about my skills, experience, and career goals. This helps recruiters determine whether I’m a suitable match for the roles I apply for.
+- <img src="Screenshot 2025-11-21 144451.png" alt="Sinhle Mthwthwa" width="600"/>
+
+-Created a professional cover letter that offers deeper insight into who I am — both as an employee and as an individual.
+
+-Updated my CV to reflect my latest achievements, skills, and experience, ensuring it represents my growth and aligns with the positions I am targeting.
+- <img src="Screenshot 2025-11-21 144131.png" alt="Sinhle Mthwthwa" width="600"/>
 
 ---
 #  Education
