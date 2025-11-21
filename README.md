@@ -109,9 +109,6 @@ A React web application for searching and booking student housing.
 ### **NannyAtYourService Platform**  
 A MySQL-powered nanny service management and analytics system.
 
-### Project Demo  
-*(Video embedded in original digital portfolio)*
-
 ---
 
 # Professional Skills
