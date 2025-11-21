@@ -47,8 +47,8 @@ Working at Plum Systems has helped me grow both **technically and personally**:
 - Learned to communicate clearly in a team environment  
 - Improved confidence in asking for help and seeking clarity when needed  
 - Engaged in daily meetings to provide progress updates and discuss cha
-  <img src="Images/Screenshot 2025-11-21 133235.png" alt="Sinhle Mthethwa" width="600"/>
-  <img src="Images/Screenshot 2025-11-21 135003.png" alt="Sinhle Mthethwa" width="600"/>
+  <img src="Screenshot 2025-11-21 133235.png" alt="Sinhle Mthethwa" width="600"/>
+  <img src="Screenshot 2025-11-21 135003.png" alt="Sinhle Mthethwa" width="600"/>
   
 
 ### Personal Development & Self-Care  
@@ -60,7 +60,7 @@ Working at Plum Systems has helped me grow both **technically and personally**:
 - Enhanced front-end and back-end development skills  
 - Gained confidence working with **JavaScript, React**, and integration tasks  
 - Contributed to real projects that strengthened coding efficiency and problem-solving
-- <img src="Images/Screenshot 2025-11-21 133921.png" alt="Sinhle Mthwthwa" width="600"/>
+- <img src="Screenshot 2025-11-21 133921.png" alt="Sinhle Mthwthwa" width="600"/>
 
 **Note:** *I do not have any restraint of trade agreement with my current or previous employers.*
 
@@ -99,7 +99,7 @@ Achieved admission to a diploma-level tertiary program.
 
 ### **Hospital Appointment & Analytics System (HAAS)**  
 A web-based system designed to manage healthcare appointments efficiently.
-<img src="Images/HospitalSystem.jpg" alt="Sinhle Mthwthwa" width="600"/>
+<img src="HospitalSystem.jpg" alt="Sinhle Mthwthwa" width="600"/>
 
 ### **Student Accommodation Finder**  
 A React web application for searching and booking student housing.
