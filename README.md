@@ -100,6 +100,8 @@ Achieved admission to a diploma-level tertiary program.
 ### **Hospital Appointment & Analytics System (HAAS)**  
 A web-based system designed to manage healthcare appointments efficiently.
 <img src="HospitalSystem.jpg" alt="Sinhle Mthwthwa" width="600"/>
+<img src="HospitalSystem2.jpg" alt="Sinhle Mthwthwa" width="600"/>
+<img src="HospitalSystem3.jpg" alt="Sinhle Mthwthwa" width="600"/>
 
 ### **Student Accommodation Finder**  
 A React web application for searching and booking student housing.
