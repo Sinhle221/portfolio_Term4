@@ -74,7 +74,7 @@ I improved my professional communication tools to present myself clearly and con
 -Created a professional cover letter that offers deeper insight into who I am — both as an employee and as an individual.
 
 -Updated my CV to reflect my latest achievements, skills, and experience, ensuring it represents my growth and aligns with the positions I am targeting.
-- <img src="Screenshot 2025-11-21 144131.png" alt="Sinhle Mthwthwa" width="600"/>
+- <img src="Sinhle Xiluva Mthethwa_CV (1).pdf" alt="Sinhle Mthwthwa" width="600"/>
 
 ---
 #  Education
